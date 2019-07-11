@@ -14,4 +14,5 @@
             <a href="cadastrar.php">Sem cadastro?</a>
         </form>
     </body>
+    echo"teste atualização git"
 </html>
