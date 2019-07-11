@@ -1,0 +1,8 @@
+PROJETO 02 VERIFICAR INFORMACOES DO PHP
+
+<P>
+<P>
+
+<?php
+phpinfo();
+?>
